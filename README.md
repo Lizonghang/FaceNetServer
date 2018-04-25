@@ -73,4 +73,8 @@ You can specify recognize-threshold in file FaceNetServer/facenet/thresh.txt.
 
 ## Collaborator
 
+* Zonghang Li
 * Chenquan Huang
+* Dong Yang
+* Yutong Jia
+* Peilan Wang
