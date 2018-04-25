@@ -60,6 +60,11 @@ You can specify recognize-threshold in file FaceNetServer/facenet/thresh.txt.
 * Ensure your TensorFlow is compiled on CUDA/CUDNN.
 * Ensure your libdarknet.so is make on your own machine. You can download source code of [darknet](https://github.com/pjreddie/darknet), edit GPU=1 in Makefile and execute "make", this would generate libdarknet.so, and replace FaceNetServer/client/libdarknet.so and FaceNetServer/facenet/darknet/libdarknet.so.
 
+## Other Files
+
+* [Video samples](https://pan.baidu.com/s/15LfRbmbdTXvLjD7aCBwQ9A)
+* [Source code and model parameters](https://pan.baidu.com/s/1m-0WMAtVCTmlLDrnKiXMrQ)
+
 ## Reference
 
 * You Only Look Once: Unified, Real-Time Object Detection.
